@@ -7,3 +7,12 @@ C:\Desarrollos\initJboss\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.csproj.Generate
 C:\Desarrollos\initJboss\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.exe
 C:\Desarrollos\initJboss\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.pdb
 C:\Desarrollos\initJboss\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.csprojResolveAssemblyReference.cache
+C:\Desarrollo\InicioJBOSS\SW_JBOSS\bin\Debug\SW_JBOSS.exe.config
+C:\Desarrollo\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.exe
+C:\Desarrollo\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.pdb
+C:\Desarrollo\InicioJBOSS\SW_JBOSS\bin\Debug\SW_JBOSS.exe
+C:\Desarrollo\InicioJBOSS\SW_JBOSS\bin\Debug\SW_JBOSS.pdb
+C:\Desarrollo\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.csprojResolveAssemblyReference.cache
+C:\Desarrollo\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.ProjectInstaller.resources
+C:\Desarrollo\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.SW_JBOSS.resources
+C:\Desarrollo\InicioJBOSS\SW_JBOSS\obj\Debug\SW_JBOSS.csproj.GenerateResource.Cache
